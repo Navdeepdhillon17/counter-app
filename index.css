@@ -11,10 +11,11 @@ body {
   background:  powderblue;
   border-radius: 20px;
   max-width: 60%;
-  min-height: 60vh;
+  min-height: 40vh;
   margin: auto;
   border: solid;
-   margin-top: 50px;
+   margin-top: 150px;
+    
 }
 
 h1 {
